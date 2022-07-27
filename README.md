@@ -1,0 +1,2 @@
+-- En el proyecto se incluyen los dos ejercicios tanto el query del ejercicio 1 en SQL como el Script de la agenda de contactos
+-- Para ejecutar el script.js, se utilizo la extension de Live Server de Visual Studio Code, tomandolo como un servidor para a leer el JSON fakedatabase 
